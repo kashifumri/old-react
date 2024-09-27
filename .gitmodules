@@ -1,0 +1,3 @@
+[submodule "second-project"]
+    path = second-project
+    url = "https://github.com/kashifumri/old-react.git"
